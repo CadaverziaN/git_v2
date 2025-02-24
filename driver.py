@@ -1,1 +1,1 @@
-print("db_driver=mysql")
+print("db_driver=mysqli")
