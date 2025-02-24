@@ -1,2 +1,2 @@
-print("Some string, pert ONE!")
+print("Some string, part ONE!")
 print("Other string")
